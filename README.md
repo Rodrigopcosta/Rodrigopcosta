@@ -1,8 +1,8 @@
 ### Hello! I'm Rodrigo Pereira 👋
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on Python
+- 🌱 I’m currently learning Angular
+- 👯 I’m looking to collaborate on React
 - 😄 Pronouns: ele/dele
 
 &nbsp;
