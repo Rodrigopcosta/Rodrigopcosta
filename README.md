@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigopc-developer)
 [![Portfólio](https://img.shields.io/badge/Portfólio-purple?style=for-the-badge&logo=react)](https://rodrigopcosta.github.io/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=microsoft-outlook)](mailto:rodrigo_ward@hotmail.com)
-
 ---
 
 ### 👋 Sobre mim
