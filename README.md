@@ -49,6 +49,6 @@
 <div> 
 <a href = "mailto:rodrigo_ward@hotmail.com"> <img src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:rodrigo_ward@hotmail.com" target="_blank"></a>
   
-<a href="https://www.linkedin.com/in/rodrigo-pereira-8ba332206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="[https://www.linkedin.com/in/rodrigo-pereira-8ba332206/](https://www.linkedin.com/in/rodrigopc-developer/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
