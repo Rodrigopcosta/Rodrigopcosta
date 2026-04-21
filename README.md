@@ -41,12 +41,9 @@ Migrei para o desenvolvimento em menos de 1 ano. Minha experiência anterior em 
 
 ---
 
-## 📊 Atividade
+## 📊 Linguagens mais usadas
 
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Rodrigopcosta&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigopcosta&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigopcosta&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
